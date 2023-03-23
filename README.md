@@ -1,5 +1,7 @@
 # 💫 About Me:
-recently graduted i am looking for new oppurtunity to improve my skills i am good at java python js problem solving 
+Having just graduated, I am looking for a new opportunity to learn something new and improve my skills. I have a good understanding of Java, python, javaScript, mysql, and problem solving. 
+
+
 
 
 ## 🌐 Socials:
