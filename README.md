@@ -1,5 +1,5 @@
 # 💫 About Me:
-Having just graduated, I am looking for a new opportunity to learn something new and improve my skills. I have a good understanding of Java, python, javaScript, mysql, and problem solving. 
+Having graduated, I am looking for a new opportunity to learn something new and improve my skills. I have a good understanding of Java, python, javaScript, mysql, and problem solving. 
 
 
 
