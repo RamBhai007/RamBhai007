@@ -38,9 +38,9 @@ https://rambhai007.github.io/Ram_portfolio/
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/rammohan-rockz-84622a232" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://instagram.com/i_m_rammohan_rockzz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://github.com/RamBhai007" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://linkedin.com/in/rammohan-rockz-84622a232" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+<a href="https://instagram.com/i_m_rammohan_rockzz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+<a href="https://github.com/RamBhai007" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="30" /></a>
 </p>
 
 ---
@@ -50,31 +50,31 @@ https://rambhai007.github.io/Ram_portfolio/
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,js,ts" height="30"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs" height="30"/>
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,html,css" />
+<img src="https://skillicons.dev/icons?i=react,angular,html,css" height="30"/>
 </p>
 
 ### 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" height="30"/>
 </p>
 
 ### ⚡ DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,jenkins,maven,docker,idea,eclipse" />
+<img src="https://skillicons.dev/icons?i=git,jenkins,maven,docker,idea,eclipse" height="30"/>
 </p>
 
 ---
